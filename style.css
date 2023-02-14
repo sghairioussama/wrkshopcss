@@ -1,0 +1,38 @@
+#para {
+    text-align: center;
+color: blueviolet;  text-align-last: center;width:50%;
+  }
+.back {
+    background-color: rgb(197, 126, 126);
+  }
+  .bord {border:2px solid Tomato; text-shadow: 2px 2px red; font-family: 'Itim', cursive; text-align: center}
+  .shut {
+    text-shadow: 2px 2px red;
+  }
+
+  li {
+    display:inline-block;position: static;
+  }
+  li a {
+    display: block;
+    padding: 15px;
+
+  }
+  ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+.v1 {display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px; ;
+
+}
